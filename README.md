@@ -39,7 +39,7 @@
 
 ## 🔗 Figma File
 
-[Click here to view the Figma design]([https://www.figma.com/design/16LWhqW7LezGrUpa7AjMlE/journly-app?node-id=0-1&t=XZuBEV0kY5eTPydX-1])  
+[View on Figma](https://www.figma.com/design/16LWhqW7LezGrUpa7AjMlE/journly-app?node-id=0-1&t=XZuBEV0kY5eTPydX-1) 
 > 
 
 ---
