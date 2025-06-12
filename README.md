@@ -58,16 +58,17 @@
 
 ### Splash Screen  
 ![Desktop page](./splashscreen.png)
-###Home Screen
+
+### Home Screen
 ![Desktop page](./homescreen.png)
 
-###Diary Screen
+### Diary Screen
 ![Desktop page](./diaryscreen.png)
 
-###Mood Tracker screen
+### Mood Tracker screen
 ![Desktop page](./moodtrackerscreen.png)
 
-###Gratitude Screen
+### Gratitude Screen
 ![Desktop page](./gratitudescreen.png)
 
 
