@@ -1,4 +1,4 @@
-# 📔 Journly — A Guided Journal & Wellness UI
+# 📔 Journly — A Guided Journal & Mood Tracker UI
 
 **Journly** is a calming and minimal mobile app UI design for emotional wellness. It offers users a space to reflect, track their mood, and practice daily gratitude—all in one smooth and clutter-free interface. Designed in **Figma**, Journly is ideal for users seeking mindfulness, emotional clarity, and digital wellness.
 
@@ -54,7 +54,21 @@
 
 ---
 
-## 🗂 Folder Structure (Optional)
+## 📸 Preview
+
+### Splash Screen  
+![Desktop page](./splashscreen.png)
+###Home Screen
+![Desktop page](./homescreen.png)
+
+###Diary Screen
+![Desktop page](./diaryscreen.png)
+
+###Mood Tracker screen
+![Desktop page](./moodtrackerscreen.png)
+
+###Gratitude Screen
+![Desktop page](./gratitudescreen.png)
 
 
 
